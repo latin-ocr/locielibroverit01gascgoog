@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./locielibroverit01gascgoog_0026.png"; bbox 0 0 4302 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 762 1721 1208 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 762 1721 1208 1812">
+     <span class='ocr_line' id='line_1_1' title="bbox 762 1721 1208 1812; baseline 0.02 -9"><span class='ocrx_word' id='word_1_1' title='bbox 762 1721 1208 1812; x_wconf 87' lang='lat' dir='ltr'>CONTENTS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1531 1939 1681 1984">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1531 1939 1681 1984">
+     <span class='ocr_line' id='line_1_2' title="bbox 1531 1939 1681 1984; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 1531 1953 1590 1984; x_wconf 72' lang='lat' dir='ltr'>ne:</span> <span class='ocrx_word' id='word_1_3' title='bbox 1678 1939 1681 1948; x_wconf 62' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 420 2013 1594 2228">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 420 2013 1594 2228">
+     <span class='ocr_line' id='line_1_3' title="bbox 421 2013 1594 2073; baseline 0.007 -11"><span class='ocrx_word' id='word_1_4' title='bbox 421 2013 585 2063; x_wconf 78' lang='lat' dir='ltr'>PREFACE</span> <span class='ocrx_word' id='word_1_5' title='bbox 620 2048 1486 2073; x_wconf 88' lang='grc'><strong>..........</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1572 2029 1594 2070; x_wconf 87' lang='grc' dir='ltr'>ν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 420 2163 1593 2228; baseline 0.007 -10"><span class='ocrx_word' id='word_1_7' title='bbox 420 2169 705 2219; x_wconf 73' lang='lat' dir='ltr'>INTRODUC&#39;HON</span> <span class='ocrx_word' id='word_1_8' title='bbox 808 2205 1484 2228; x_wconf 90' lang='grc'><strong>........</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1525 2163 1593 2226; x_wconf 88' lang='lat' dir='ltr'>xvii</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 418 2327 926 2378">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 418 2327 926 2378">
+     <span class='ocr_line' id='line_1_5' title="bbox 418 2327 926 2378; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 418 2329 502 2378; x_wconf 87' lang='lat' dir='ltr'>LOCI</span> <span class='ocrx_word' id='word_1_11' title='bbox 528 2329 550 2378; x_wconf 86' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_12' title='bbox 573 2327 683 2378; x_wconf 88' lang='lat' dir='ltr'>LIBRO</span> <span class='ocrx_word' id='word_1_13' title='bbox 705 2327 926 2378; x_wconf 87' lang='lat' dir='ltr'>VERITATUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2156 4932">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2156 4932">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2156 4932; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2156 4932; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
